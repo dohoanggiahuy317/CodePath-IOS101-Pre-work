@@ -18,7 +18,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-<img src="https://github.com/user-attachments/assets/905bf00a-d25f-44a3-aad4-7b144bd6a047" alt="demo-video" width="500" height="300">
+<img src="https://github.com/user-attachments/assets/905bf00a-d25f-44a3-aad4-7b144bd6a047" alt="demo-video" height="500">
 
 
 ## App Brainstorming (Step 4)
