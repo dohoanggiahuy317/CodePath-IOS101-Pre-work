@@ -18,7 +18,8 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+![demo-video](https://github.com/user-attachments/assets/905bf00a-d25f-44a3-aad4-7b144bd6a047)
+
 
 ## App Brainstorming (Step 4)
 
